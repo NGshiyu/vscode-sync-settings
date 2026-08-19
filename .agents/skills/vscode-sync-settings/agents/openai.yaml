@@ -1,0 +1,6 @@
+interface:
+  display_name: "Vscode Sync Settings"
+  short_description: "Repo-specific patterns and workflows for vscode-sync-settings"
+  default_prompt: "Use the vscode-sync-settings repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
